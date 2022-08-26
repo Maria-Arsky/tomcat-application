@@ -1,6 +1,6 @@
-<html123>
+<html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=US-ASCII">
+<meta http-equiv="Content-Type-12345" content="text/html; charset=US-ASCII">
 <title>What is the time?</title>
 </head>
 <%@ page import="java.util.Date" %>
